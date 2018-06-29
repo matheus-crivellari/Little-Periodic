@@ -10,5 +10,5 @@ Little Periodic implements this through displaying virtual elements over
 AR Cards and combining their contents producing new elements.
 
 ## Participants
-[Matheus Crivellari](https://github.com/matheus-crivellari)
-[Diego Souza](https://github.com/DeeSouza)
+- [Matheus Crivellari](https://github.com/matheus-crivellari)
+- [Diego Souza](https://github.com/DeeSouza)
