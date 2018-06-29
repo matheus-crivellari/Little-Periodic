@@ -1,5 +1,5 @@
 # Little Periodic
-This is a sample project which aims to be proof of concept and study resources for Unity + Vuforia Augented Reality development.
+This is a sample project which aims to be proof of concept and study resource for Unity + Vuforia Augmented Reality development.
 
 ## Objective
 Little Periodic is an augmented reality solution which tracks periodic 
